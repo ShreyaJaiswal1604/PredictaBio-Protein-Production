@@ -104,9 +104,3 @@ Special thanks to **Amazon Bedrock**, **Lovable**, and open-source biology tools
 
 ## 📬 Contact & Contributions
 
-We welcome feedback, suggestions, and contributions!
-
-🔗 [Project Website](https://github.com/YourRepoLink)  
-📧 Email us at: `shreya.jais1604@gmail.com`  
-💬 Let’s build the future of biotech research together!
-

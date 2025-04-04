@@ -1,4 +1,4 @@
-# 🧬 PredictaBio: Accelerating Protein Synthesis with AI
+# 🧬 Protify: Accelerating Protein Synthesis with AI
 
 **PredictaBio** is a next-generation platform built during a hackathon to assist researchers in **rapidly optimizing protein production** using **Generative AI**, **Literature Mining**, and **LLM-powered analytics**. The platform intelligently extracts experimental protocols from scientific publications and guides researchers toward the most suitable production conditions for proteins such as *EGF*, *LIF*, and *FGF1*.
 

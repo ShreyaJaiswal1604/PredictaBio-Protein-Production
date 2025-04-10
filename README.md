@@ -32,6 +32,7 @@ Develop an AI-powered assistant to:
 ## 🔧 Architectural Overview
 
 PredictaBio is composed of modular, cloud-ready components designed for scalability and ease of use:
+![image](https://github.com/user-attachments/assets/ccb64c2a-fc15-4417-bb2f-5095c9e193ea)
 
 
 ---
